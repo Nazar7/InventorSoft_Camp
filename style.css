@@ -1,0 +1,36 @@
+.container{
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.formErear{
+  padding-top: 10px;
+  width: 300px;
+  height: 100px;
+  border: 1px solid green;
+
+}
+
+.formBlock{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+ 
+}
+
+input{
+  text-align:center;
+}
+
+.btnCalc{
+  width: 50px;
+}
+
+h3{
+ text-align: center;
+}
